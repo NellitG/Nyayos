@@ -1,3 +1,14 @@
+
+<img width="1353" height="641" alt="Capture" src="https://github.com/user-attachments/assets/5f23b9ed-d5e6-414f-a6cd-234b530a3665" />
+
+
+
+
+
+
+
+
+
 # Vue-template
 Let's build with vue
 
