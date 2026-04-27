@@ -18,6 +18,11 @@
           Nyayo's Foundation, established in 2024 in Nairobi, Kenya, is dedicated to transforming the lives of differently-abled children by providing them with access to digital education.
         </p>
         <p class="text-gray-950 leading-relaxed mb-4">
+          <p class="text-gray-950 leading-relaxed mb-4">
+          In Africa, disability often translates to invisibility in the classroom. At Nyayo’s Foundation, we believe that a lack of a system that suits special learners does not mean those learners are incapable. We are building the bridge between exclusion and academic integrity through technology.
+        </p>
+        </p>
+        <p class="text-gray-950 leading-relaxed mb-4">
           Recognizing the educational barriers faced by children with disabilities in underserved communities, our foundation strives to bridge the gap by offering inclusive and accessible learning opportunities
         </p>
         <p class="text-gray-950 leading-relaxed mb-4">
