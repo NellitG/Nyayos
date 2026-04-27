@@ -25,7 +25,7 @@
               Our Vision
             </h3>
             <p class="mt-4 text-gray-600 leading-relaxed">
-              Our mission is to provide transformative resources and support that enable individuals of all abilities to thrive, promoting inclusivity, equality, and empowerment in every community we serve.
+              The Leadership. Founded and led by Nyayo Veronicah, the foundation is driven by a bold vision: to ensure that every child, regardless of physical or cognitive ability, has a chance to learn
             </p>
           </div>
         </div>
@@ -38,7 +38,7 @@
               Our Mission
             </h3>
             <p class="mt-4 text-gray-600 leading-relaxed">
-              To empower individuals of all abilities, fostering an inclusive society where every life is enriched through equal opportunities, support, and resources.
+              To transform learning outcomes for children living with disabilities by embedding inclusive, assistive EdTech tools into mainstream classrooms. We aim to improve literacy, numeracy, and long-term confidence for students who have been marginalized for too long.
             </p>
           </div>
           <div class="relative flex justify-center">
