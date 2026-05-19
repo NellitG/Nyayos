@@ -42,12 +42,12 @@
       <!-- Main Content Grid -->
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-start">
         <!-- Left Column: Stats & Impact -->
-        <div class="space-y-8 animate-fade-in-up animation-delay-300">
+        <div class="space-y-8 animate-fade-in-up animation-delay-900">
           <div
             class="bg-white rounded-2xl shadow-xl p-8 border-l-8 border-yellow-500 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1"
           >
             <div class="flex items-center justify-between mb-4">
-              <div class="text-4xl font-bold text-yellow-500">2024</div>
+              <div class="text-4xl font-bold text-yellow-500">2026</div>
               <div
                 class="w-12 h-12 bg-yellow-100 rounded-full flex items-center justify-center"
               >
@@ -76,7 +76,7 @@
           </div>
 
           <div
-            class="bg-gradient-to-br from-yellow-50 to-blue-50 rounded-2xl shadow-xl p-8 hover:shadow-2xl transition-all duration-300"
+            class="bg-gradient-to-br from-yellow-50 to-blue-50 rounded-2xl shadow-xl p-8 hover:shadow-2xl transition-all duration-900"
           >
             <div class="flex items-center gap-3 mb-4">
               <div
@@ -138,7 +138,7 @@
         </div>
 
         <!-- Right Column: Mission Text -->
-        <div class="space-y-6 animate-fade-in-up animation-delay-600">
+        <div class="space-y-6 animate-fade-in-up animation-delay-900">
           <div
             class="bg-white rounded-2xl shadow-xl p-8 hover:shadow-2xl transition-shadow duration-300"
           >
@@ -281,12 +281,12 @@ export default {
   opacity: 0;
 }
 
-.animation-delay-300 {
-  animation-delay: 0.3s;
+.animation-delay-900 {
+  animation-delay: 0.9s;
 }
 
-.animation-delay-600 {
-  animation-delay: 0.6s;
+.animation-delay-900 {
+  animation-delay: 0.9s;
 }
 
 .animation-delay-900 {
